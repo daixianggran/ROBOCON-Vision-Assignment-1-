@@ -231,7 +231,7 @@ Mean scene luma: 116.775
 Panels: original | Otsu binary | Canny edges
 ```
 
-![C++ 手工编译处理结果](assets/cpp/cpp_manual_sample.png)
+![C++ 手工编译处理结果](cpp_manual_sample.png)
 
 ## 6. CMake Build
 
@@ -290,7 +290,7 @@ cmake --build cpp/build -j"$(nproc)"
 
 CMake 配置时找到 OpenCV 4.13.0。程序再次处理 5842 帧，平均场景亮度为 116.775，生成的视频可完整解码。
 
-![C++ CMake 构建处理结果](assets/cpp/cpp_cmake_sample.png)
+![C++ CMake 构建处理结果](cpp_cmake_sample.png)
 
 手工 `g++` 命令直接列出源文件、头文件路径和链接参数；CMake 则把这些构建关系写入 `CMakeLists.txt`，再生成 Ninja 等构建系统所需的规则。
 

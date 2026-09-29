@@ -105,7 +105,7 @@ Duration: 00:03:14.73
 
 彩色视频画面示例：
 
-![Project A 彩色采集画面](assets/python_a/color_capture_sample.png)
+![Project A 彩色采集画面](python_a/color_capture_sample.png)
 
 ## 3. Process Observation
 

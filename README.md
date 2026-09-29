@@ -99,13 +99,13 @@ Duration: 00:03:14.73
 
 以下截图来自同一次 Project A 运行，三个窗口同时显示：
 
-![Project A：原始画面、灰度画面与轮廓画面](assets/python_a/project_a_three_windows.jpg)
+![Project A 三个窗口](project_a_three_windows.jpg)
 
 本次证据运行持续 88.3 秒，捕获 2634 帧，实测循环速率约 29.8 FPS，超过 30 秒要求。
 
 彩色视频画面示例：
 
-![Project A 彩色采集画面](python_a/color_capture_sample.png)
+[Project A 彩色画面](color_capture_sample.png)
 
 ## 3. Process Observation
 

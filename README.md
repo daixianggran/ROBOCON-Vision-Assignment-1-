@@ -179,7 +179,7 @@ python analyze_video.py \
 
 处理结果可完整解码，共 5842 帧，分辨率为 `1920x360`，帧率为 30 FPS，时长为 `00:03:14.73`。输出文件保存在本机 `python_B/advanced_analysis.mp4`。
 
-![Python Project B 高级视频分析结果](assets/python_b/advanced_analysis_sample.png)
+![Python Project B 高级视频分析结果](advanced_analysis_sample.png)
 
 ## 5. C++ Manual Build
 

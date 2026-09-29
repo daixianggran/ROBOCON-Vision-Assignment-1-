@@ -134,8 +134,10 @@ CMD:     python camera.py --camera 6 --output /tmp/assignment_project_a_capture.
 这里使用 `pgrep -af` 从系统进程列表中查找摄像头程序，并将找到的 PID 与 Project A 打印的 PID 进行核对。`ps` 用于查看 PID、PPID、CPU、内存、运行时间和完整命令；`pstree` 用于查看进程关系。
 
 `htop` 截图中可以查看 CPU、内存、任务和线程使用情况：
+![ps 和 pstree 的命令输出截图](ps&pstree.png)
 
-![htop：系统使用情况与线程](assets/process/htop_system_threads.png)
+![htop：系统使用情况与线程](htop.png)
+
 
 ## 4. Python Project B
 
